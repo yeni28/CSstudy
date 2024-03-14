@@ -14,7 +14,7 @@
 
 (3) 작업 단계
 -  Oracle, MY SQL, SQL Server, Excel -> ETL -> ODS 적재 -> ELT > de-normalizing -> 운영 보고서 작성, DW 적재 -> ETL -> DM 적재
-![Alt text](image.png)
+![Alt text](/src/OLAP_Stagingarea.png)
 
 1) step0 interface : 다양한 DBMS 및 스프레드시트 등 데이터 원천으로 부터 데이터를 획득하기 위한 인터페이스 메커니즘 구현
 
